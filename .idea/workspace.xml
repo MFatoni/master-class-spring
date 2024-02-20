@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7df1bd34-78ba-4aed-b855-f3f73b9f90f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/monitoring/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/monitoring.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/src/main/java/programmerzamannow/monitoring/BelajarSpringMonitoringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/src/main/java/programmerzamannow/monitoring/MyHealthIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/src/main/java/programmerzamannow/monitoring/MyScheduledTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring/src/test/java/programmerzamannow/monitoring/BelajarSpringMonitoringApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restful/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/config/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/config/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/config-properties.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/config/config-properties.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/external.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/external.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/config/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/config/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/java/com/programmerzamannow/spring/config/BelajarSpringConfigPropertiesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/java/com/programmerzamannow/spring/config/BelajarSpringConfigPropertiesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/java/com/programmerzamannow/spring/config/converter/StringToDateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/java/com/programmerzamannow/spring/config/converter/StringToDateConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/java/com/programmerzamannow/spring/config/properties/ApplicationProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/java/com/programmerzamannow/spring/config/properties/ApplicationProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/java/com/programmerzamannow/spring/config/runner/ApplicationPropertiesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/java/com/programmerzamannow/spring/config/runner/ApplicationPropertiesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/application-production.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/application-production.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/messages_in_ID.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/messages_in_ID.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/my.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/my.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/my_in_ID.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/my_in_ID.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/sample.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/sample.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/text/resource.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/text/resource.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/main/resources/text/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/text/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/BelajarSpringConfigPropertiesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/BelajarSpringConfigPropertiesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/ResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/ResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/appproperties/ApplicationPropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/appproperties/ApplicationPropertiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/configurationproperties/ConfigurationPropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/configurationproperties/ConfigurationPropertiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/environment/EnvironmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/environment/EnvironmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/messagesource/MessageSourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/messagesource/MessageSourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/profile/ProfileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/profile/ProfileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/profileenvironment/ProfileEnvironmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/profileenvironment/ProfileEnvironmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/profileproperties/ProfilePropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/profileproperties/ProfilePropertiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/propertysource/PropertySourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/propertysource/PropertySourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/resourceloader/ResourceLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/resourceloader/ResourceLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/springbootmessagesource/SpringBootMessageSourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/springbootmessagesource/SpringBootMessageSourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/testpropertysource/PropertySourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/testpropertysource/PropertySourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/java/com/programmerzamannow/spring/config/value/ValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/java/com/programmerzamannow/spring/config/value/ValueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-properties/src/test/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/test/resources/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/spring-jpa.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/spring-jpa.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/BelajarSpringDataJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/BelajarSpringDataJpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/model/ProductPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/model/ProductPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/model/SimpleProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/model/SimpleProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/java/programmerzamannow/springdata/jpa/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/java/programmerzamannow/springdata/jpa/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/test/java/programmerzamannow/springdata/jpa/BelajarSpringDataJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/test/java/programmerzamannow/springdata/jpa/BelajarSpringDataJpaApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/test/java/programmerzamannow/springdata/jpa/EntityManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/test/java/programmerzamannow/springdata/jpa/EntityManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/test/java/programmerzamannow/springdata/jpa/repository/CategoryRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/test/java/programmerzamannow/springdata/jpa/repository/CategoryRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/test/java/programmerzamannow/springdata/jpa/repository/ProductRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/test/java/programmerzamannow/springdata/jpa/repository/ProductRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/src/test/java/programmerzamannow/springdata/jpa/service/CategoryServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpa/src/test/java/programmerzamannow/springdata/jpa/service/CategoryServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/monitoring/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/spring-mvc.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/spring-mvc.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/BelajarSpringWebMvcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/BelajarSpringWebMvcApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/MyWebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/MyWebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/BodyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/BodyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/CodeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/CodeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/DateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/DateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/ErrorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/ErrorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/ErrorPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/ErrorPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/FormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/FormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/HeaderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/HeaderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/PartnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/PartnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/PersonApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/PersonApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/converter/StringToDateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/converter/StringToDateConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/interceptor/SessionInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/interceptor/SessionInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/model/CreateAddressRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/model/CreateAddressRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/model/CreatePersonRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/model/CreatePersonRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/model/CreateSocialMediaRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/model/CreateSocialMediaRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/model/HelloRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/model/HelloRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/model/HelloResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/model/HelloResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/model/Partner.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/model/Partner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/resolver/PartnerArgumentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/resolver/PartnerArgumentResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/service/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/service/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/service/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/service/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/java/programmerzamannow/webmvc/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/java/programmerzamannow/webmvc/servlet/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/resources/templates/hello.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/main/resources/templates/hello.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/BelajarSpringWebMvcApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/BelajarSpringWebMvcApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/AuthControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/AuthControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/BodyControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/BodyControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/CodeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/CodeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/DateControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/DateControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/FormControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/FormControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/HeaderControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/HeaderControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/HelloControllerIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/HelloControllerIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/HelloControllerMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/HelloControllerMockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/HelloControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/HelloControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/OrderControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/OrderControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/PartnerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/PartnerControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/PersonApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/PersonApiControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/PersonControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/PersonControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/RestTemplateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/RestTemplateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/StatisResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/StatisResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/TodoControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/TodoControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/UploadControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/UploadControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/service/HelloServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/service/HelloServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/java/programmerzamannow/webmvc/servlet/HelloServletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/java/programmerzamannow/webmvc/servlet/HelloServletTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/src/test/resources/images/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/src/test/resources/images/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/test.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/upload/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/upload/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/restful/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/restful/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/restful/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/docs/address.md" beforeDir="false" afterPath="$PROJECT_DIR$/restful/docs/address.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/docs/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/restful/docs/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/docs/user.md" beforeDir="false" afterPath="$PROJECT_DIR$/restful/docs/user.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/manual.http" beforeDir="false" afterPath="$PROJECT_DIR$/restful/manual.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/restful/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/restful/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/restful/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/spring-restful.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/restful/spring-restful.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/BelajarSpringResTfulApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/BelajarSpringResTfulApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/WebConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/controller/AddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/controller/AddressController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/controller/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/controller/ErrorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/controller/ErrorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/entity/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/entity/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/entity/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/entity/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/AddressResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/AddressResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/ContactResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/ContactResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/CreateAddressRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/CreateAddressRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/CreateContactRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/CreateContactRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/LoginUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/LoginUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/PagingResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/PagingResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/RegisterUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/RegisterUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/SearchContactRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/SearchContactRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/TokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/TokenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/UpdateAddressRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/UpdateAddressRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/UpdateContactRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/UpdateContactRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/UpdateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/UpdateUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/UserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/model/WebResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/model/WebResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/repository/AddressRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/repository/AddressRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/repository/ContactRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/resolver/UserArgumentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/resolver/UserArgumentResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/security/BCrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/security/BCrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/service/AddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/service/AddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/service/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/java/programmerzamannow/restful/service/ValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/java/programmerzamannow/restful/service/ValidationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/test/java/programmerzamannow/restful/BelajarSpringResTfulApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/test/java/programmerzamannow/restful/BelajarSpringResTfulApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/test/java/programmerzamannow/restful/controller/AddressControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/test/java/programmerzamannow/restful/controller/AddressControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/test/java/programmerzamannow/restful/controller/AuthControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/test/java/programmerzamannow/restful/controller/AuthControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/test/java/programmerzamannow/restful/controller/ContactControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/test/java/programmerzamannow/restful/controller/ContactControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-restful/src/test/java/programmerzamannow/restful/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful/src/test/java/programmerzamannow/restful/controller/UserControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2cc3rxfGNqdshGiFI1ARhQfeKVU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/fatoni/Coding/master class/master-class-spring",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7df1bd34-78ba-4aed-b855-f3f73b9f90f8" name="Changes" comment="" />
+      <created>1708397246218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708397246218</updated>
+      <workItem from="1708397248270" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
